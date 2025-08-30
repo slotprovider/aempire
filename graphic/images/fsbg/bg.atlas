@@ -1,0 +1,14 @@
+bg.png
+size:1988,1868
+filter:Linear,Linear
+pma:true
+Background
+bounds:2,784,1982,1082
+Light
+bounds:2,2,961,780
+RedEyes
+bounds:1090,758,45,24
+Spider
+bounds:965,707,123,75
+SpiderHighlight
+bounds:965,669,46,36
